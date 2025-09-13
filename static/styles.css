@@ -1,0 +1,101 @@
+/* Size for brand */
+nav .navbar-brand
+{
+    font-size: xx-large;
+}
+
+/* Colors for brand */
+nav .navbar-brand .blue
+{
+    color: #537fbe;
+}
+nav .navbar-brand .red
+{
+    color: #ea433b;
+}
+nav .navbar-brand .yellow
+{
+    color: #f5b82e;
+}
+nav .navbar-brand .green
+{
+    color: #2e944b;
+}
+
+/* General body styles for light mode */
+body {
+    background-color: #f8f9fa;
+    color: #212529;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Dark mode styles */
+body.dark-mode {
+    background-color: #343a40;
+    color: #f8f9fa;
+}
+
+body.dark-mode .navbar {
+    background-color: #212529 !important;
+    color: #f8f9fa !important;
+    border-color: #495057 !important;
+}
+
+body.dark-mode .nav-link {
+    color: #f8f9fa !important;
+}
+
+body.dark-mode .table {
+    color: #f8f9fa;
+}
+
+body.dark-mode .table-striped > tbody > tr:nth-of-type(odd) > * {
+    background-color: #495057;
+}
+
+body.dark-mode .form-control {
+    background-color: #495057;
+    color: #f8f9fa;
+    border-color: #6c757d;
+}
+
+body.dark-mode .form-control::placeholder {
+    color: #adb5bd;
+}
+
+body.dark-mode .btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+    color: white;
+}
+
+body.dark-mode .btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #004085;
+}
+
+body.dark-mode .btn-outline-danger {
+    color: #dc3545;
+    border-color: #dc3545;
+}
+
+body.dark-mode .btn-outline-danger:hover {
+    color: white;
+    background-color: #dc3545;
+}
+
+
+/* Dark mode styles for footer */
+body.dark-mode footer {
+    background-color: #212529; /* Dark background color for footer */
+    border-top: 1px solid #495057; /* Adds a subtle top border */
+}
+
+body.dark-mode footer .link-dark,
+body.dark-mode footer .text-muted {
+    color: #adb5bd !important; /* Lighter text and link color for readability */
+}
+
+body.dark-mode footer a.link-dark:hover {
+    color: #f8f9fa !important; /* White color on hover for better user feedback */
+}
