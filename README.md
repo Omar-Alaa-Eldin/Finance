@@ -88,7 +88,7 @@ To run this project locally, follow these steps.
 
 To see a full demonstration of the application's features, you can watch a short video here:
 
-[![Watch the demo video](https://github.com/Omar-Alaa-Eldin/Finance/blob/main/static/finance.mp4)](https://github.com/Omar-Alaa-Eldin/Finance/blob/main/static/finance.png)
+[![Watch the demo video](https://drive.google.com/file/d/1A0Pb6gAb6vHwDyn9lGL6hOOQaSrspGnu/view?usp=sharing)](https://drive.google.com/file/d/1A0Pb6gAb6vHwDyn9lGL6hOOQaSrspGnu/view?usp=sharing)
 
 ---
 
