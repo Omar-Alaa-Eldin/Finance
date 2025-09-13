@@ -41,8 +41,8 @@ To run this project locally, follow these steps.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/your-repo-name.git](https://github.com/YourUsername/your-repo-name.git)
-    cd your-repo-name
+    git clone https://github.com/Omar-Alaa-Eldin/Finance.git
+    cd Finance
     ```
 
 2.  **Install dependencies:**
@@ -88,7 +88,7 @@ To run this project locally, follow these steps.
 
 To see a full demonstration of the application's features, you can watch a short video here:
 
-[![Watch the demo video](https://img.youtube.com/vi/your-video-id/0.jpg)](https://www.youtube.com/watch?v=your-video-id)
+[![Watch the demo video](https://github.com/Omar-Alaa-Eldin/Finance/blob/main/static/finance.mp4)](https://github.com/Omar-Alaa-Eldin/Finance/blob/main/static/finance.png)
 
 ---
 
