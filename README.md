@@ -1,6 +1,6 @@
 # C$50 Finance App
 
-![Cover Image](https://i.imgur.com/your-cover-image.png)
+![Cover Image](https://github.com/Omar-Alaa-Eldin/Finance/blob/main/static/finance.png)
 
 A web application that allows users to manage a virtual stock portfolio. Users can simulate buying, selling, and managing stocks in real-time. This project was developed as a final project for CS50's Introduction to Computer Science.
 
